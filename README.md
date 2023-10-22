@@ -1,3 +1,5 @@
+This is a backup of https://github.com/jd/cl-hue.git , which appears to have disappeared.
+
 cl-hue
 ======
 
